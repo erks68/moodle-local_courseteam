@@ -50,5 +50,5 @@ function local_courseteam_extend_navigation(global_navigation $navigation) {
     $node->forceopen = true;
     $node->isexpandable = false;
     $node->showinflatnavigation = true;
-    $node->icon = new pix_icon('t/edit', '');
+    $node->icon = new pix_icon('i/groupv', '');
 }
